@@ -5,6 +5,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-add_lunch_combo omni_BV5900-user
-add_lunch_combo omni_BV5900-userdebug
-add_lunch_combo omni_BV5900-eng
+add_lunch_combo twrp_BV5900-user
+add_lunch_combo twrp_BV5900-userdebug
+add_lunch_combo twrp_BV5900-eng
