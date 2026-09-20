@@ -6,7 +6,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_BV5900.mk
+    $(LOCAL_DIR)/twrp_BV5900.mk
 
 COMMON_LUNCH_CHOICES := \
     twrp_BV5900-user \
