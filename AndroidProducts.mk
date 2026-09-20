@@ -9,6 +9,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/omni_BV5900.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_BV5900-user \
-    omni_BV5900-userdebug \
-    omni_BV5900-eng
+    twrp_BV5900-user \
+    twrp_BV5900-userdebug \
+    twrp_BV5900-eng
