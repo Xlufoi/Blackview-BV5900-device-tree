@@ -16,7 +16,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, device/blackview/BV5900/device.mk)
 
 PRODUCT_DEVICE := BV5900
-PRODUCT_NAME := omni_BV5900
+PRODUCT_NAME := twrp_BV5900
 PRODUCT_BRAND := Blackview
 PRODUCT_MODEL := BV5900
 PRODUCT_MANUFACTURER := blackview
